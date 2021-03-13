@@ -4,4 +4,4 @@
 *.status
 *.log
 *.m4
-/.deps
+.deps/
