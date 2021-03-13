@@ -1,7 +1,5 @@
 *.cache
 *.ac
-*.am
 *.status
 *.log
 *.m4
-.deps/
